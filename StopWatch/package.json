@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "react-native-stopwatch-timer": "*",
+    "react-native-svg": "12.1.0",
+    "react-native-reanimated": "~2.1.0"
+  }
+}
