@@ -11,7 +11,7 @@ export default function App() {
         ref={video}
         style={styles.video}
         source={{
-          uri: 'http://d23dyxeqlo5psv.cloudfront.net/big_buck_bunny.mp4',
+          uri: 'https://snack-code-uploads.s3.us-west-1.amazonaws.com/~asset/847e3777a0634a0f352b9b618783e1b0',
         }}
         useNativeControls
         resizeMode="contain"
